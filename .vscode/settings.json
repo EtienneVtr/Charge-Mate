@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "distance.C": "cpp",
+        "string.h": "c"
+    }
+}
